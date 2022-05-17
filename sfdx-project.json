@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "50.0",
     "packageAliases": {
-        "GIFter": "0HoIY00000000Mv0AI"
+        "GIFter": "0HoIY00000000Mv0AI",
+        "GIFter@1.0.0-1": "04tIY0000000Sr1YAE"
     }
 }
