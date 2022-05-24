@@ -5,7 +5,7 @@
             "default": true,
             "package": "GIFter",
             "versionName": "Summer '22",
-            "versionNumber": "1.0.0.NEXT"
+            "versionNumber": "1.1.0.NEXT"
         }
     ],
     "namespace": "",
@@ -13,6 +13,7 @@
     "sourceApiVersion": "50.0",
     "packageAliases": {
         "GIFter": "0HoIY00000000Mv0AI",
-        "GIFter@1.0.0-1": "04tIY0000000Sr1YAE"
+        "GIFter@1.1.0": "04tIY0000000Sr1YAE",
+        "GIFter@1.1.0-1": "04tIY0000000TE0YAM"
     }
 }
